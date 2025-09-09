@@ -37,8 +37,8 @@ All colors MUST be HSL.
     --ring: 158 64% 52%;
 
     /* HELB Portal specific colors */
-    --helb-green: 158 64% 52%;
-    --helb-green-dark: 158 64% 45%;
+    --helb-green: 158% ,64% ,52%;
+    --helb-green-dark: 158 34% 45%;
     --helb-green-light: 158 64% 96%;
     --helb-sidebar: 158 72% 23%;
     --helb-sidebar-hover: 158 72% 28%;
